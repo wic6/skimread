@@ -1,1 +1,2 @@
-web: skimread
+release: chmod u+x ./skimread
+web: ./skimread
