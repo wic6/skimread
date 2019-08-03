@@ -1,1 +1,1 @@
-web: skimread
+web: ./skimread
